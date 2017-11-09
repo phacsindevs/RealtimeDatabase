@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1033733875758",
+    "firebase_url": "https://sample-27a8c.firebaseio.com",
+    "project_id": "sample-27a8c",
+    "storage_bucket": "sample-27a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033733875758:android:bf0b3b80f89b3b81",
+        "android_client_info": {
+          "package_name": "com.phacsin.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033733875758-2tsc7h6rh6b44e2knlv8ts7qtt6e4qrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdlGHtzAFMhkrbEeOeYiDAi01v5LS8fNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033733875758:android:56095a8d221eaf66",
+        "android_client_info": {
+          "package_name": "com.phacsin.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033733875758-2tsc7h6rh6b44e2knlv8ts7qtt6e4qrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdlGHtzAFMhkrbEeOeYiDAi01v5LS8fNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
